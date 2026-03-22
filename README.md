@@ -94,7 +94,7 @@ int main(void) {
     size_t len;
 
     /* Example input (you can replace this or read from stdin) */
-    strcpy(msg, "shini");
+    strcpy(msg, "vishal");
 
     printf("Simulation of Hill Cipher (3x3)\n");
     printf("Input message : %s\n", msg);
@@ -136,7 +136,8 @@ int main(void) {
 
 ## OUTPUT
 
-<img width="795" height="474" alt="image" src="https://github.com/user-attachments/assets/dc8fbfac-0764-4b4e-85b1-feba9a425e91" />
+<img width="1506" height="607" alt="image" src="https://github.com/user-attachments/assets/4a1230d4-9940-478b-a3dc-0a4aba520d6a" />
+
 
 ## RESULT
 The program is executed successfully.
